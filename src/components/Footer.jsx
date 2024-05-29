@@ -1,7 +1,7 @@
 function Footer(){
-    const style = "text-center p-4 fixed bottom-0 w-full"
+  // p-4 text-center bottom-0
     return (
-      <footer className={style}>
+      <footer className="grid grid-cols-1 auto-rows-[5rem] w-full text-center items-center">
         <p>&copy; 2024 by Aris Wildan Jannatan</p>
       </footer>
     )

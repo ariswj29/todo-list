@@ -4,8 +4,3 @@
   height: 100vh;
   color: white;
 }
-
-#root main{
-  display: flex;
-  flex-direction: column;
-}
